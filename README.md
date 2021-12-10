@@ -1,2 +1,3 @@
 # React-on-Expo
-Practicing React Native components executed on expo
+React Native project where user can add and delete goals.
+Application uses EXPO not react CLI
